@@ -6,3 +6,5 @@ The loading icon was added from the oxygen zion pack frame by frame using copy p
 The .inf file was taken from a random icon pack and modified to add the person select and location select icons as well, which were not (and usually aren't for windows icon packs) included in said icon pack, and the files were renamed to match the .inf file names.
 
 To install, download the repo as zip and unzip, or clone, and then right click install.inf and click the install option in the context menu.
+
+The original phingers cursor pack is for linux distros and is available here: https://github.com/phisch/phinger-cursors
